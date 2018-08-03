@@ -1,0 +1,15 @@
+{
+  "name": "viridis",
+  "version": "1.0.0",
+  "description": "Exercício prático de qualidade de software e automação de testes utilizando a ferramenta Puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node navegacaoSimples.js"
+  },
+  "author": "Liliane de Aquino",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.6.2"
+  }
+}
